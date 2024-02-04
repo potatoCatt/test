@@ -1,6 +1,6 @@
 123conflict
 hehe
-456
+456cat
 789
 Add line
 another line for you my cat
